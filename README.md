@@ -1,2 +1,2 @@
-# pgm
-Probabilistic Graphical Models
+# stanford-pgm-course
+Stanford Course on Probabilistic Graphical Models
